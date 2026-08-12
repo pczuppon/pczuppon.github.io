@@ -11,26 +11,26 @@ toc:
 sidebar:
 ---
 
-_since 09/2025_\
+*since 09/2025*\
 **Senior Lecturer** (Maître de Conférences) at Aix-Marseille Université (I2M, Team MABioS)
 
-_04/2021 – 08/2025_\
+*04/2021 – 08/2025*\
 **Lecturer** (Studienrat im Hochschuldienst) at University of Münster (Institute for Evolution and Biodiversity)
 
-_11/2019 – 03/2021_\
+*11/2019 – 03/2021*\
 **Marie Skłodowska-Curie fellow** at Sorbonne Université (iEES Paris, Team EERI) and Collège de France (CIRB, Team SMILE) in Paris (with [Florence Débarre](http://www.normalesup.org/~fdebarre/) and [François Blanquart](https://sites.google.com/site/francoisblanquart/))
 
-_07/2018 – 10/2019_\
+*07/2018 – 10/2019*\
 **Postdoc** at Collège de France (CIRB, Team SMILE) and at Sorbonne Université (iEES Paris, Team EERI) in Paris (with [Florence Débarre](http://www.normalesup.org/~fdebarre/) and [François Blanquart](https://sites.google.com/site/francoisblanquart/))
 
-_01/2017 – 06/2018_\
+*01/2017 – 06/2018*\
 **Postdoc** in the Department for Evolutionary Theory at the Max Planck Institute for Evolutionary Biology in Plön (with [Arne Traulsen](https://theobio.evolbio.mpg.de/#home))
 
-_12/2012 – 09/2016_\
+*12/2012 – 09/2016*\
 **PhD** in Mathematics at the University of Freiburg (Thesis supervisor: [Peter Pfaffelhuber](https://www.stochastik.uni-freiburg.de/professoren/pfaffelhuber))
 
-_10/2010 – 11/2012_\
+*10/2010 – 11/2012*\
 **Diploma** in Mathematics at the University of Freiburg (Thesis supervisor: [Peter Pfaffelhuber](https://www.stochastik.uni-freiburg.de/professoren/pfaffelhuber))
 
-_10/2007 – 09/2010_\
+*10/2007 – 09/2010*\
 **Bachelor of Science** in Mathematics at the Technical University of Munich (Thesis supervisor: [Johannes Müller](https://www.math.cit.tum.de/math/personen/professuren/mueller-johannes/))
