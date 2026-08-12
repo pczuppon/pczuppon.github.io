@@ -9,7 +9,7 @@ nav_order: 2
 
 <style>
 [data-theme="light"] .publications h2.bibliography {
-    color: #666666;
+    color: #D3D3D3;
 }
 </style>
 
