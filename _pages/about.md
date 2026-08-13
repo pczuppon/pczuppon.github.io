@@ -9,7 +9,7 @@ profile:
   image: pete.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 331, TPR2</p>
+    <p>Office 331, TPR2 (CNRS block)</p>
     <p>Campus Luminy</p>
     <p>Marseille, France</p>
 
@@ -33,7 +33,7 @@ latest_posts:
 
 ---
 
-Welcome to my homepage. I am a **mathematical/theoretical biologist** interested in stochastic models in the contexts of evolutionary biology, ecology, epidemiology and gene regulation.
+Welcome to my personal homepage. I am a **mathematical/theoretical biologist** interested in stochastic models in the contexts of evolutionary biology, ecology, epidemiology and gene regulation.
 
 I am currently a _Maître de Conférences_ (senior lecturer) in the <a href='https://mabios.math.cnrs.fr/'>MABioS</a> team at the <a href='https://www.i2m.univ-amu.fr/'>Institut de Mathématiques de Marseille</a>.
 
