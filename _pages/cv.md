@@ -12,7 +12,7 @@ sidebar:
 ---
 
 *since 09/2025*\
-**Senior Lecturer** (Maître de Conférences) at Aix-Marseille Université (I2M, Team MABioS)
+**Senior Lecturer/Associate Professor** (Maître de Conférences) at Aix-Marseille Université (I2M, Team MABioS)
 
 *04/2021 – 08/2025*\
 **Lecturer** (Studienrat im Hochschuldienst) at University of Münster (Institute for Evolution and Biodiversity)
