@@ -27,10 +27,10 @@ sidebar:
 **Postdoc** in the Department for Evolutionary Theory at the Max Planck Institute for Evolutionary Biology in Plön (with [Arne Traulsen](https://theobio.evolbio.mpg.de/#home))
 
 *12/2012 – 09/2016*\
-**PhD** in Mathematics at the University of Freiburg (Thesis supervisor: [Peter Pfaffelhuber](https://www.stochastik.uni-freiburg.de/professoren/pfaffelhuber))
+**PhD** in Mathematics at the University of Freiburg (Thesis supervisor: [Peter Pfaffelhuber](https://pfaffelh.github.io/hp/index.html))
 
 *10/2010 – 11/2012*\
-**Diploma** in Mathematics at the University of Freiburg (Thesis supervisor: [Peter Pfaffelhuber](https://www.stochastik.uni-freiburg.de/professoren/pfaffelhuber))
+**Diploma** in Mathematics at the University of Freiburg (Thesis supervisor: [Peter Pfaffelhuber](https://pfaffelh.github.io/hp/index.html))
 
 *10/2007 – 09/2010*\
 **Bachelor of Science** in Mathematics at the Technical University of Munich (Thesis supervisor: [Johannes Müller](https://www.math.cit.tum.de/math/personen/professuren/mueller-johannes/))
