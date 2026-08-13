@@ -339,10 +339,10 @@ scholar:
   last_name: [Czuppon]
   first_name: [Peter]
 
-  source: /_bibliography/
-  
-  style: _bibliography/apa_custom.csl
+  style: apa
   locale: en
+
+  source: /_bibliography/
   
   bibliography: papers.bib
   bibliography_template: bib
