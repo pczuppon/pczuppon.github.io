@@ -36,7 +36,7 @@ latest_posts:
 
 Welcome to my personal homepage. I am a **mathematical/theoretical biologist** interested in stochastic models in the contexts of evolutionary biology, ecology, epidemiology and gene regulation.
 
-I am currently a _Maître de Conférences_ (senior lecturer) in the <a href='https://mabios.math.cnrs.fr/'>MABioS</a> team at the <a href='https://www.i2m.univ-amu.fr/'>Institut de Mathématiques de Marseille</a>.
+I am currently a _Maître de Conférences_ (senior lecturer/associate professor) in the <a href='https://mabios.math.cnrs.fr/'>MABioS</a> team at the <a href='https://www.i2m.univ-amu.fr/'>Institut de Mathématiques de Marseille</a>.
 
 `Keywords: population genetics, evolutionary rescue, balancing selection, genetic drift, antibiotic resistance, (evolutionary) epidemiology.`
 
