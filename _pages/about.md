@@ -9,7 +9,8 @@ profile:
   image: pete.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 331, TPR2 (CNRS block)</p>
+    <p>Office 331</p>
+    <p>TPR2 (CNRS block)</p>
     <p>Campus Luminy</p>
     <p>Marseille, France</p>
 
