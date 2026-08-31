@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-08-31'
 papers:
   G_K8MdkAAAAJ:0EnyYjriUFMC:
     citations: 77
@@ -78,7 +78,7 @@ papers:
     title: Quantification and modeling of turnover dynamics of de novo transcripts in Drosophila melanogaster
     year: '2024'
   G_K8MdkAAAAJ:_kc_bZDykSQC:
-    citations: 18
+    citations: 19
     title: 'The stochastic dynamics of early epidemics: probability of establishment, initial growth rate, and infection cluster size at first detection'
     year: '2021'
   G_K8MdkAAAAJ:blknAaTinKkC:
@@ -98,7 +98,7 @@ papers:
     title: Drivers and impact of the early silent invasion of SARS-CoV-2 Alpha
     year: '2024'
   G_K8MdkAAAAJ:hqOjcs7Dif8C:
-    citations: 27
+    citations: 28
     title: Understanding evolutionary and ecological dynamics using a continuum limit
     year: '2021'
   G_K8MdkAAAAJ:iH-uZ7U-co4C:
@@ -118,7 +118,7 @@ papers:
     title: Predicting the prevalence of genetic trade-offs among adaptive substitutions
     year: '2025'
   G_K8MdkAAAAJ:qUcmZB5y_30C:
-    citations: 34
+    citations: 35
     title: A stochastic analysis of the interplay between antibiotic dose, mode of action, and bacterial competition in the evolution of antibiotic resistance
     year: '2023'
   G_K8MdkAAAAJ:qjMakFHDy7sC:
