@@ -18,10 +18,10 @@ sidebar:
 **Lecturer** (Studienrat im Hochschuldienst) at University of Münster (Institute for Evolution and Biodiversity)
 
 *11/2019 – 03/2021*\
-**Marie Skłodowska-Curie fellow** at Sorbonne Université (iEES Paris, Team EERI) and Collège de France (CIRB, Team SMILE) in Paris (with [Florence Débarre](http://www.normalesup.org/~fdebarre/) and [François Blanquart](https://sites.google.com/site/francoisblanquart/))
+**Marie Skłodowska-Curie fellow** at Sorbonne Université (iEES Paris, Team EERI); secondary affiliation at Collège de France (CIRB, Team SMILE) in Paris (with [Florence Débarre](http://www.normalesup.org/~fdebarre/) and [François Blanquart](https://sites.google.com/site/francoisblanquart/))
 
 *07/2018 – 10/2019*\
-**Postdoc** at Collège de France (CIRB, Team SMILE) and at Sorbonne Université (iEES Paris, Team EERI) in Paris (with [Florence Débarre](http://www.normalesup.org/~fdebarre/) and [François Blanquart](https://sites.google.com/site/francoisblanquart/))
+**Postdoc** at Collège de France (CIRB, Team SMILE); secondary affiliation at Sorbonne Université (iEES Paris, Team EERI) in Paris (with [Florence Débarre](http://www.normalesup.org/~fdebarre/) and [François Blanquart](https://sites.google.com/site/francoisblanquart/))
 
 *01/2017 – 06/2018*\
 **Postdoc** in the Department for Evolutionary Theory at the Max Planck Institute for Evolutionary Biology in Plön (with [Arne Traulsen](https://theobio.evolbio.mpg.de/#home))
