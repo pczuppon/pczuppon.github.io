@@ -38,7 +38,7 @@ Welcome to my personal homepage. I am a **mathematical/theoretical biologist** i
 
 I am currently a _Maître de Conférences_ (senior lecturer/associate professor) in the <a href='https://mabios.math.cnrs.fr/'>MABioS</a> team at the <a href='https://www.i2m.univ-amu.fr/'>Institut de Mathématiques de Marseille</a>.
 
-`Keywords: population genetics, evolutionary rescue, balancing selection, genetic drift, antibiotic resistance, (evolutionary) epidemiology.`
+`Keywords: stochastic models, population genetics, evolutionary rescue, balancing selection, genetic drift, antibiotic resistance, (evolutionary) epidemiology.`
 
 ---
 
